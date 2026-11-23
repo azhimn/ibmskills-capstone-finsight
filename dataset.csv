@@ -1,0 +1,101 @@
+idx,date,description,amount,category,label
+0,2023-01-01,Grocery shopping at Whole Foods,120.75,Food,Food Expenses
+1,2023-01-02,Office rent payment for the month,3000.0,Rent,Rent Expenses
+2,2023-01-03,Electricity bill for January,150.25,Utilities,Utilities Expenses
+3,2023-01-04,Monthly subscription for financial software,129.99,Subscriptions,Subscription Expenses
+4,2023-01-05,Business lunch with potential clients,85.5,Entertainment,Entertainment Expenses
+5,2023-01-06,Purchase of fresh vegetables from the local farmer's market,65.0,Food,Food Expenses
+7,2023-01-06,Electricity bill for January,150.25,Utilities,Utilities Expenses
+10,2023-01-06,Purchase of fresh vegetables from the local farmer's market,65.5,Food,Food Expenses
+13,2023-01-06,Annual renewal of Adobe Creative Cloud subscription,499.99,Subscriptions,Subscription Expenses
+15,2023-01-07,Ordered pizza for family dinner,45.0,Food,Food Expenses
+17,2023-01-07,Water bill for household consumption,75.5,Utilities,Utilities Expenses
+20,2023-01-07,Dinner at a family-owned Italian restaurant,75.0,Food,Food Expenses
+23,2023-01-07,Monthly cloud storage service for personal files,15.0,Subscriptions,Subscription Expenses
+25,2023-01-08,Grocery shopping at Walmart for household supplies,110.0,Food,Food Expenses
+27,2023-01-08,Gas bill for heating,50.0,Utilities,Utilities Expenses
+30,2023-01-08,Grocery shopping at a bulk warehouse store,105.75,Food,Food Expenses
+33,2023-01-08,Monthly Netflix streaming service,13.99,Subscriptions,Subscription Expenses
+35,2023-01-09,Dinner at Italian restaurant downtown,75.0,Food,Food Expenses
+37,2023-01-09,Internet bill for the previous month,45.99,Utilities,Utilities Expenses
+40,2023-01-09,Snacks bought from the convenience store,18.25,Food,Food Expenses
+43,2023-01-09,Monthly fitness app membership,19.99,Subscriptions,Subscription Expenses
+11,2023-01-10,Quarterly lease payment for office space,2500.0,Rent,Rent Expenses
+12,2023-01-10,Payment for water bill in January,75.0,Utilities,Utilities Expenses
+45,2023-01-10,Buying ingredients for homemade dinner,80.0,Food,Food Expenses
+47,2023-01-10,Sewerage and waste removal,30.75,Utilities,Utilities Expenses
+50,2023-01-10,Lunch at a sandwich shop with colleagues,22.5,Food,Food Expenses
+53,2023-01-10,Subscription for cloud-based project management tool,19.99,Subscriptions,Subscription Expenses
+21,2023-01-11,Water bill for business premises,100.0,Utilities,Utilities Expenses
+55,2023-01-11,Cooking at home with ingredients from Whole Foods,95.0,Food,Food Expenses
+57,2023-01-11,Water bill for garden irrigation,40.0,Utilities,Utilities Expenses
+60,2023-01-11,Purchase of organic produce for home delivery,50.0,Food,Food Expenses
+63,2023-01-11,Online magazine subscription for tech industry,19.99,Subscriptions,Subscription Expenses
+22,2023-01-12,Electricity usage for home heating,210.0,Utilities,Utilities Expenses
+31,2023-01-12,Maintenance fee for office building,300.0,Maintenance,Maintenance Expenses
+65,2023-01-12,Hunting trip - packed meals for camping,120.0,Food,Food Expenses
+67,2023-01-12,Solar panel energy payment,200.0,Utilities,Utilities Expenses
+70,2023-01-12,Cooking class for professional culinary skills,35.0,Food,Food Expenses
+73,2023-01-12,Monthly subscription for meditation and mindfulness app,9.99,Subscriptions,Subscription Expenses
+41,2023-01-13,Elevator repair service in office building,250.0,Maintenance,Maintenance Expenses
+75,2023-01-13,Lunch at the office cafeteria,13.5,Food,Food Expenses
+77,2023-01-13,Electricity bill for February,160.0,Utilities,Utilities Expenses
+80,2023-01-13,Coffee shop visits for morning coffee,45.0,Food,Food Expenses
+83,2023-01-13,Annual subscription for online language learning platform,99.99,Subscriptions,Subscription Expenses
+51,2023-01-14,Parking fees for staff,200.0,Other,Other Expenses
+85,2023-01-14,Meal delivery service for one-night stay at hotel,180.0,Food,Food Expenses
+87,2023-01-14,Gas bill for residential area,60.25,Utilities,Utilities Expenses
+90,2023-01-14,Trip to a local farm for farm-to-table experience,150.0,Food,Food Expenses
+93,2023-01-14,Monthly subscription for online music streaming service,9.99,Subscriptions,Subscription Expenses
+32,2023-01-15,Payment for internet services,60.0,Utilities,Utilities Expenses
+61,2023-01-15,Insurance premium for commercial property,500.0,Insurance,Insurance Expenses
+95,2023-01-15,Grandma's birthday dinner catered,250.0,Food,Food Expenses
+97,2023-01-15,Water bill for public water supply,80.0,Utilities,Utilities Expenses
+71,2023-01-16,Office furniture rental deposit,400.0,Equipment,Equipment Expenses
+81,2023-01-17,Building renovation costs,8000.0,Construction,Construction Expenses
+42,2023-01-18,Waste collection fee for residential area,45.0,Utilities,Utilities Expenses
+91,2023-01-18,Estate taxes for office property,1200.0,Legal,Legal Expenses
+52,2023-01-20,Payment for sewage and drainage,50.0,Utilities,Utilities Expenses
+62,2023-01-22,Payment for gas services,110.0,Utilities,Utilities Expenses
+72,2023-01-25,Payment for water bill in February,75.0,Utilities,Utilities Expenses
+82,2023-01-28,Electricity usage for home appliances,190.0,Utilities,Utilities Expenses
+92,2023-01-30,Payment for telephone services,55.0,Utilities,Utilities Expenses
+6,2023-02-01,Lease payment for 1-bedroom apartment,1200.0,Rent,Rent Expenses
+8,2023-02-01,Monthly Netflix subscription fee,15.99,Subscriptions,Subscription Expenses
+18,2023-02-05,Monthly subscription fee for Adobe Creative Cloud,20.99,Subscriptions,Subscription Expenses
+28,2023-02-07,Monthly Spotify music streaming service fee,9.99,Subscriptions,Subscription Expenses
+38,2023-02-10,Monthly Zapier account fee for automation services,12.99,Subscriptions,Subscription Expenses
+9,2023-02-14,Birthday party for my child with friends,300.0,Entertainment,Entertainment Expenses
+48,2023-02-14,Monthly PayPal account subscription for recurring payments,5.99,Subscriptions,Subscription Expenses
+14,2023-02-15,Movie tickets for a family outing at the cinema,45.0,Entertainment,Entertainment Expenses
+16,2023-02-15,Escrow fee for apartment purchase,450.0,Rent,Rent Expenses
+19,2023-02-15,Concert tickets for The Weeknd - Las Vegas,120.0,Entertainment,Entertainment Expenses
+29,2023-02-16,Movie night at home with action films,15.0,Entertainment,Entertainment Expenses
+58,2023-02-16,Monthly Dropbox subscription fee for cloud storage,9.99,Subscriptions,Subscription Expenses
+24,2023-02-17,Dinner at a local live music venue,90.0,Entertainment,Entertainment Expenses
+39,2023-02-17,Casino trip to Las Vegas for friends,450.0,Entertainment,Entertainment Expenses
+49,2023-02-18,Theatre outing for the latest romantic comedy,85.0,Entertainment,Entertainment Expenses
+68,2023-02-18,Monthly subscription for the New York Times digital content,0.99,Subscriptions,Subscription Expenses
+59,2023-02-19,Evening at the local jazz club,60.0,Entertainment,Entertainment Expenses
+69,2023-02-20,Gaming night with online multiplayer friends,40.0,Entertainment,Entertainment Expenses
+78,2023-02-20,Monthly Amazon Prime Video subscription fee,14.99,Subscriptions,Subscription Expenses
+79,2023-02-21,Magic show performance for family,110.0,Entertainment,Entertainment Expenses
+89,2023-02-22,Disneyland trip for my family,750.0,Entertainment,Entertainment Expenses
+88,2023-02-23,Monthly Weather Channel subscription for weather updates,3.99,Subscriptions,Subscription Expenses
+99,2023-02-23,Private art class with a local artist,150.0,Entertainment,Entertainment Expenses
+98,2023-02-25,Monthly iHeartRadio subscription for music streaming,9.99,Subscriptions,Subscription Expenses
+26,2023-03-01,Monthly payment for leased office space,2000.0,Rent,Rent Expenses
+34,2023-03-03,Concert tickets for a friend's band performance,120.0,Entertainment,Entertainment Expenses
+36,2023-03-12,Security deposit returned from apartment lease,1000.0,Rent,Rent Expenses
+46,2023-03-20,Monthly maintenance fee for apartment complex,250.0,Rent,Rent Expenses
+44,2023-03-22,Cinema streaming service subscription for monthly access,15.99,Subscriptions,Subscription Expenses
+54,2023-04-01,Visit to a theme park with friends,200.0,Entertainment,Entertainment Expenses
+56,2023-04-01,Rent for executive suite in downtown office building,2500.0,Rent,Rent Expenses
+64,2023-04-10,Purchased tickets for a Broadway show,85.0,Entertainment,Entertainment Expenses
+66,2023-04-10,Mortgage payment for newly purchased property,1500.0,Rent,Rent Expenses
+74,2023-04-18,Video game purchase for personal use,59.99,Entertainment,Entertainment Expenses
+76,2023-04-18,Furniture rental for temporary office space,300.0,Rent,Rent Expenses
+86,2023-05-01,Lease payment for corporate office in Midtown,3200.0,Rent,Rent Expenses
+84,2023-05-05,Art gallery opening event,70.0,Entertainment,Entertainment Expenses
+96,2023-05-15,Rent for warehouse space for storage needs,1800.0,Rent,Rent Expenses
+94,2023-05-20,Private tutoring session for music lessons,60.0,Education,Education Expenses
