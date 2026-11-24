@@ -2,7 +2,7 @@
 
 > Dashboard analisis keuangan pribadi berbasis web untuk memvisualisasikan arus kas, mendeteksi pengeluaran anomali, dan menemukan strategi penghematan.
 
-![FinSight Dashboard Preview](preview.png)
+<img width="1907" height="1839" alt="image" src="https://github.com/user-attachments/assets/1e98a629-379f-43c0-8999-2751e0a11581" />
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## Fitur
 
-### Tab Overview
+### Tab Overview / Dashboard
 | Komponen | Deskripsi |
 |---|---|
 | **Total Expenses** | Total keseluruhan pengeluaran dari semua transaksi |
@@ -58,24 +58,6 @@
 | **Sortable columns** | Klik header kolom (Date, Description, Category, Amount) untuk mengurutkan |
 | **Configurable pagination** | Pilihan jumlah baris per halaman: 10 / 20 / 50 / 100 |
 | **Anomaly indicator** | Baris dengan ikon ⚠ dan latar amber menandai transaksi anomali |
-
----
-
-## Tampilan Dashboard
-
-Berikut tampilan dashboard FinSight pada tab **Overview**:
-
-![FinSight Overview Tab](preview.png)
-
-Komponen yang terlihat pada screenshot:
-
-- **Navbar** — logo *FinSight*, navigasi tab (Overview · Analysis · Transactions), dan badge status data di kanan atas (*100 transactions loaded*)
-- **KPI Row** — empat kartu metrik utama: *Total Expenses* ($38,140.53), *Avg. Monthly Spend* ($7,628.11), *Avg. Transaction* ($381.41), dan *Anomalies Detected* (16 — ditampilkan dalam warna amber)
-- **Monthly Spending** — batang merah muda untuk Januari 2023 yang jauh melampaui rata-rata ($7,628.11), ditunjukkan oleh garis putus-putus amber horizontal
-- **Category Breakdown** — donat dengan 12 segmen warna; kategori dominan adalah *Rent* (teal) dan *Construction* (oranye)
-- **Category Frequency** — *Utilities* memimpin frekuensi transaksi (~25), diikuti *Subscriptions* (~21) dan *Food* (~20)
-- **Average Expense by Category** — *Construction* memiliki rata-rata tertinggi (~$8,000), jauh melampaui kategori lain
-- **Transaction Timeline** — titik teal = normal; segitiga amber = anomali; garis putus-putus amber menunjukkan batas IQR fence ($440.00)
 
 ---
 
